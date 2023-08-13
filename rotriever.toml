@@ -1,0 +1,9 @@
+[package]
+name = "exectest"
+authors = [
+    "XHamane"
+]
+content_root = "lib"
+version = "1.0.0"
+license = "MIT"
+files = [ "init.lua" ]
