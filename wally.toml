@@ -1,0 +1,12 @@
+[package]
+name = "XHamane/exectest"
+description = "malicious"
+version = "0.1.0"
+license = "MIT"
+authors = ["XHamane"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["*"]
+include = ["lib", "lib/init.lua", "default.project.json", "README.md", "wally.toml"]
+
+[dependencies]
