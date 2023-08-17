@@ -1,0 +1,20 @@
+{
+	"name": "@XHamane/exectest",
+	"version": "0.1.0",
+	"description": "malicious",
+	"main": "lib/init.lua",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/XHamane/exectest.git"
+	},
+	"keywords": [],
+	"author": "XHamane",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/XHamane/exectest/issues"
+	},
+	"homepage": "https://github.com/XHamane/exectest#readme",
+	"files": [
+		"lib/init.lua"
+	]
+}
